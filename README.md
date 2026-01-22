@@ -1,4 +1,4 @@
-# J(i)OS
+# jos
 A 64 bit, amd64 compatible operating system from scratch.
 
 Screenshot:
